@@ -1,0 +1,25 @@
+{
+  "name": "todolist_v1.0",
+  "version": "1.0.0",
+  "description": "A To do list",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likh-Alex/To-do-list.git"
+  },
+  "author": "Alex Likhachov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Likh-Alex/To-do-list/issues"
+  },
+  "homepage": "https://github.com/Likh-Alex/To-do-list#readme",
+  "dependencies": {
+    "body": "^5.1.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "parser": "^0.1.4"
+  }
+}
